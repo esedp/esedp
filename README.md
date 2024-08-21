@@ -28,5 +28,8 @@
 
 ## Onde me encontrar: </h3> 
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/jose-luiz-7068622a5)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jlnalbertii@gmail.com)
+<a href="www.linkedin.com/in/jose-luiz-7068622a5" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<a href="mailto:jlnalbertii@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  
