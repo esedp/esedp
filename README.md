@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>José Luiz!</strong>
+## Olá, meu nome é <strong>José Luiz!</strong>
 
 🎓 &nbsp; Estudante de **Engenharia de Computação** na <a href="https://www.utfpr.edu.br">UTFPR</a>
 
