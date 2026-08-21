@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>José Luiz!</strong>
 
-🎓 &nbsp; Estudante de **Engenharia de Computação** na <a href="https://www.utfpr.edu.br">UTFPR</a>
+🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://www.utfpr.edu.br">UTFPR</a>
 
 🖥️: Atualmente estudando outras linguagens mas com foco em Java
 
